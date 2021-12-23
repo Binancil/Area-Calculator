@@ -8,7 +8,7 @@ calculate the area.
 
 ## Requirements
 
-1. You must download the latest version of Python 3 so you can open the file, [download it here.](https://www.google.com).
+1. You must download the latest version of Python 3 so you can open the file, [download it here.](https://www.google.com)
 2. You must have access to the console/terminal (depending on your operating system).
 3. You must have git installed on your device.
 
